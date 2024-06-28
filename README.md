@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Esteban Grimaldos </h1>
-<h3 align="center">A professional Data Scientist and Economist from Colombia</h3>
+<h3 align="center">Professional Data Scientist and Economist from Colombia</h3>
 
 <h3 > About me: </h3>
 Professional in Economics and Data Science with experience in data analytics and the development of data scientist tools. I have successfully implemented automation pipelines, including tools for price list updates, inventory system control alerts, and data pipelines for updating dashboard information. I specialize in creating dynamic and insightful dashboards using Plotly, Data Studio, and Power BI. 
