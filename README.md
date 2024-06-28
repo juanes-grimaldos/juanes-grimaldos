@@ -8,7 +8,7 @@ Professional in Economics and Data Science with experience in data analytics and
 
 - 📫 How to reach me: **est.juan.grimaldos@unimilitar.edu.co**
   
-- 🔤 My CV is here in English only: 
+- 🔤 My CV is available [here](https://unimilitareduco-my.sharepoint.com/:b:/g/personal/est_juan_grimaldos_unimilitar_edu_co/EcBAzpdAcUpPoVy3dfNFDNsBW3u8xfq4t8x0HQWqPhR6BQ?e=1FlMH8) (English only): 
 
 
 <h3 align="center">Connect with me:</h3>
