@@ -30,10 +30,10 @@ Professional in Economics and Data Science with experience in data analytics and
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
-  <a href="https://git-scm.com/" target="_blank"> 
+  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" alt="git" width="40" height="40"/> 
   </a>
-  <a href="https://git-scm.com/" target="_blank"> 
+  <a href="https://posit.co/download/rstudio-desktop/" target="_blank"> 
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREC93mALVZOfrNonlHxyvt8ljWQKpP-Q6nCQ&s" alt="git" width="40" height="40"/> 
   </a>
 </p>
