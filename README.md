@@ -49,6 +49,6 @@ Professional in Economics and Data Science with experience in data analytics and
 
 ------
 
-[Juan Esteban Grimaldos León](https://github.com/BrantLauro)
+[Juan Esteban Grimaldos León](https://github.com/juanes-grimaldos)
 
 Last Edited on: 28/06/2024
