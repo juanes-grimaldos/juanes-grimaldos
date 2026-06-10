@@ -27,9 +27,8 @@ Focused on developing a portfolio in ML engineering and MLOps. Ask me about cred
 
 | Project | Stack | Description |
 |---|---|---|
-| [Credit Default Classifier](https://github.com/juanes-grimaldos) | sklearn · XGBoost · Flask · Docker · AWS | Soft-voting ensemble model deployed via AWS Lambda + API Gateway |
-| [Colombia Fridges Price Analyzer](https://github.com/juanes-grimaldos) | Selenium · Supabase · Streamlit · Render | Price scraping pipeline across 4 retailers with live dashboard |
-| [LinkedIn Job Scraper](https://github.com/juanes-grimaldos) | Selenium · Python · JSON | Keyword-based job viability filter with resilient pagination |
+| [Credit Default Classifier](https://github.com/juanes-grimaldos/lambda-credit-default-classifier) | sklearn · XGBoost · Flask · Docker · AWS | Soft-voting ensemble model deployed via AWS Lambda + API Gateway |
+| [Colombia Fridges Price Analyzer](https://github.com/juanes-grimaldos/web-scrapy-database) | Selenium · Supabase · Streamlit · Render | Price scraping pipeline across 4 retailers with live dashboard |
 
 ---
 
